@@ -1,1 +1,15 @@
+# Code Samples
+
+This folder contains a small set of representative, sanitized code samples selected to demonstrate engineering approach, security thinking, and code structure rather than the full private production codebase.
+
+## Included areas
+- `auth/` — authentication, session handling, and security-focused regression coverage
+- `data-access/` — data access and API interaction patterns
+- `ui/` — representative frontend component structure
+
+## Included samples
 - `auth/auth.ts` — representative authentication and session-management logic showing validation, error handling, Supabase integration, token lifecycle handling, and user context hydration.
+- `auth/auth.security.test.ts` — security-focused regression coverage demonstrating friendly error handling, fail-closed authorization behavior, in-memory-only session handling, and captcha propagation.
+
+## Note
+Supporting utilities and adjacent implementation files are intentionally omitted from this portfolio sample for brevity. The goal is to show representative engineering approach and security thinking rather than provide a complete standalone module.
