@@ -1,16 +1,18 @@
-# 18birds-portfolio
-18Birds is a multi-tenant golf scoring and administration platform designed to support clubs, competitions, and operational workflows through a modern web application.
-## What this repository shows
-This is a portfolio version of the project intended for technical review. It contains product context, architecture notes, screenshots, and selected representative code samples.
+# 18Birds
+
+18Birds is a multi-tenant golf scoring and administration platform built to support clubs, competitions, operational workflows, and scalable SaaS delivery.
+
+## Purpose of this repository
+This is a public portfolio repository created for technical review. It provides a high-level view of the product, architecture, engineering decisions, and selected implementation samples without exposing private production details.
 
 ## My role
-Founder, Product Lead, and Engineering Lead
+Founder, Product Lead, Engineering Lead
 
 ## What I owned
-- Product direction and feature shaping
-- System architecture and technical decisions
-- Frontend engineering
-- Auth and tenant isolation design
+- Product direction and solution design
+- Frontend engineering and UX iteration
+- Authentication and authorization approach
+- Multi-tenant architecture decisions
 - Supabase data model and access patterns
 - CI/CD and deployment workflow
 - AI-assisted engineering workflows for delivery acceleration
@@ -21,23 +23,23 @@ Founder, Product Lead, and Engineering Lead
 - Vite
 - Supabase
 - Vercel
-- GitHub Actions / GitHub workflow-driven delivery
+- GitHub
 
 ## Key engineering themes
-- Multi-tenant SaaS design
-- Secure authentication and authorization
-- Clean deployment workflow
-- Practical AI-assisted development process
-- Strong delivery discipline and iterative product improvement
+- Multi-tenant SaaS architecture
+- Secure auth and tenant isolation
+- Structured frontend architecture
+- CI/CD and deployment discipline
+- AI-assisted development and review workflows
+
+## Repository contents
+- `docs/architecture-overview.md` — system overview and design decisions
+- `docs/product-summary.md` — product summary and business context
+- `images/` — screenshots and diagrams
+- `samples/` — selected representative code samples
 
 ## Screenshots
-[insert images]
-
-## Architecture overview
-[link to docs/architecture-overview.md]
-
-## Selected code samples
-[link to samples/]
+Add screenshots here once uploaded.
 
 ## Notes
-This portfolio repository is intentionally sanitized and does not include private credentials, sensitive operational data, or the complete production codebase.
+This repository is intentionally sanitized. It does not include private credentials, customer data, production secrets, or the full private codebase.
