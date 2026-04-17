@@ -1,0 +1,1 @@
+- `auth/auth.ts` — representative authentication and session-management logic showing validation, error handling, Supabase integration, token lifecycle handling, and user context hydration.
