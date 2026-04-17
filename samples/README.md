@@ -1,6 +1,6 @@
 # Code Samples
 
-This folder contains a small set of representative, sanitized code samples selected to demonstrate engineering approach, security thinking, and code structure rather than the full private production codebase.
+This folder contains a small set of representative, sanitized code samples selected to demonstrate engineering approach, security thinking, accessibility awareness, and code structure rather than the full private production codebase.
 
 ## Included areas
 - `auth/` — authentication, session handling, and security-focused regression coverage
@@ -15,4 +15,4 @@ This folder contains a small set of representative, sanitized code samples selec
 - `ui/AdminToolbarFields.tsx` — representative reusable UI component sample showing typed React props, accessible hidden-label patterns, and consistent admin input/select abstractions.
 
 ## Note
-Note: Supporting utilities and adjacent implementation files are intentionally omitted from this portfolio sample for brevity. The goal is to show representative engineering approach, security guardrails, accessibility awareness, component structure and data-access structure rather than provide a complete standalone module.
+Supporting utilities and adjacent implementation files are intentionally omitted from this portfolio sample for brevity. The goal is to show representative engineering approach, security guardrails, accessibility awareness, component structure, and data-access patterns rather than provide a complete standalone module.
