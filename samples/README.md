@@ -10,8 +10,8 @@ This folder contains a small set of representative, sanitized code samples selec
 ## Included samples
 - `auth/auth.ts` — representative authentication and session-management logic showing validation, error handling, Supabase integration, token lifecycle handling, and user context hydration.
 - `auth/auth.security.test.ts` — security-focused regression coverage demonstrating friendly error handling, fail-closed authorization behavior, in-memory-only session handling, and captcha propagation.
-- `data-access/supabase.ts` — representative data-access layer showing Supabase configuration validation, typed fetch patterns, error handling, domain mapping, and backend interaction across core platform entities.
+- `data-access/supabase.ts` — representative data-access layer showing frontend-safe Supabase configuration validation, runtime URL resolution, shared request helpers, and typed read/write patterns for core application data.
 - `data-access/supabase.security.test.ts` — focused regression coverage demonstrating transport and client-configuration guardrails, including HTTPS enforcement and rejection of secret-style keys in frontend config.
 
 ## Note
-Supporting utilities and adjacent implementation files are intentionally omitted from this portfolio sample for brevity. The goal is to show representative engineering approach and security thinking rather than provide a complete standalone module.
+Note: Supporting utilities and adjacent implementation files are intentionally omitted from this portfolio sample for brevity. The goal is to show representative engineering approach, security guardrails, and data-access structure rather than provide a complete standalone module.
