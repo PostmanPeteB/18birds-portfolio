@@ -39,7 +39,17 @@ Founder, Product Lead, Engineering Lead
 - `samples/` — selected representative code samples
 
 ## Screenshots
-Add screenshots here once uploaded.
+##Admin Dashboard
+### Login
+![Login page](images/AdminLoginPage.png)
+
+### Dashboard
+![Dashboard overview](images/AdminOverviewPage.png)
+![Active Rounds overview](images/ActiveRoundsPage.png)
+
+### Golf Scoring App example
+![Login](images/App-ScoringPage-1.png)
+![Scoring On Course](images/App-ScoringPage-2.png)
 
 ## Notes
 This repository is intentionally sanitized. It does not include private credentials, customer data, production secrets, or the full private codebase.
