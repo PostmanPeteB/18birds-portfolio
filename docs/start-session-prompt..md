@@ -1,5 +1,3 @@
-codex --profile full_git
-
 Read these in order:
 1. AGENTS.md
 2. OUR-PROCESS.md
