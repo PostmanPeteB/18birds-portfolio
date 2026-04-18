@@ -2,6 +2,9 @@
 
 18Birds is a multi-tenant golf scoring and administration platform designed to support clubs, competitions, operational workflows, and scalable SaaS delivery.
 
+It has been built using a local AI-assisted development setup using OpenAI Codex CLI in Ubuntu (WSL) within VS Code, supporting React/TypeScript, Supabase, GitHub, and Vercel-based SaaS delivery. 
+My role in the development process is to act as the technical product and delivery coordinator: translating business needs into clear requirements, designing the solution approach, directing AI-assisted engineering workflows, reviewing implementation outputs, and maintaining alignment across architecture, security, and delivery quality.
+
 ## Purpose of this repository
 This is a public portfolio repository prepared for technical review. It provides a high-level view of the product, architecture, engineering decisions, user experience, and selected implementation samples without exposing private production details.
 
