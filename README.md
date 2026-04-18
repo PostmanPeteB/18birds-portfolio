@@ -61,8 +61,10 @@ Founder, Product Lead, Engineering Lead
 ### Active Rounds
 ![Active rounds overview](images/active-rounds-overview.png)
 
-### Golf Scoring App
+### Golf Scoring App - pre-round setup
 ![Scoring app setup view](images/app-scoring-page-1.png)
+
+### Golf Scoring App - live scoring
 ![Scoring app on-course view](images/app-scoring-page-2.png)
 
 ## Notes
