@@ -5,6 +5,11 @@
 ## Purpose of this repository
 This is a public portfolio repository prepared for technical review. It provides a high-level view of the product, architecture, engineering decisions, user experience, and selected implementation samples without exposing private production details.
 
+The working repo at https://github.com/18birds/18Birds is private and I am happy to walk you through the repo one on one if you would like. I have attached a screenshot of the home page and it shows:
+- Releases 3
+- Deployments 500+
+- Most of the .md files I use in the workflow - AGENTS.md is the orchestrator but there are a number of others dealing with workflow, security, architecture, patterns etc
+
 ## My role
 Founder, Product Lead, Engineering Lead
 
@@ -39,6 +44,9 @@ Founder, Product Lead, Engineering Lead
 - `samples/` — selected representative code samples
 
 ## Screenshots
+
+### Active 18Birds Repo
+![Active 18Birds Repo](images/Active-18Birds-Repo.png)
 
 ### Admin Login
 ![Admin login page](images/admin-login-page.png)
