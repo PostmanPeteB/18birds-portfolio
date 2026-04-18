@@ -4,7 +4,7 @@
 
 It has been built using a local AI-assisted development setup using OpenAI Codex CLI in Ubuntu (WSL) within VS Code, supporting React/TypeScript, Supabase, GitHub, and Vercel-based SaaS delivery. 
 
-My role in the development process is to act as the technical product and delivery coordinator: translating business needs into clear requirements, designing the solution approach, directing AI-assisted engineering workflows, reviewing implementation outputs, and maintaining alignment across architecture, security, and delivery quality.
+I have included my current start of session prompt in the docs folder - this will give you a feeling for the type of process I have evolved over time. Pairing this type of approach with deliberately small slice PR's has proven to be a good way to control the output and avoid hallucinations etc. 
 
 ## Purpose of this repository
 This is a public portfolio repository prepared for technical review. It provides a high-level view of the product, architecture, engineering decisions, user experience, and selected implementation samples without exposing private production details.
@@ -16,6 +16,10 @@ The working repo at https://github.com/18birds/18Birds is private and I am happy
 
 ## My role
 Founder, Product Lead, Engineering Lead
+
+My role in the development process is to act as the technical product and delivery coordinator: translating business needs into clear requirements, designing the solution approach, directing AI-assisted engineering workflows, reviewing implementation outputs, and maintaining alignment across architecture, security, and delivery quality.
+
+I have deliberately evolved the development process so that it is not just fast, but controlled. That has meant introducing stronger security thinking, auditability, and delivery guardrails, with clearer review points, validation steps, traceable decisions, and practical controls to reduce risk while maintaining speed and flexibility.
 
 ## What I owned
 - Product direction and solution design
