@@ -31,6 +31,16 @@ It has been built using a local AI-assisted development setup using OpenAI Codex
 
 I have included a number of my process files in the docs folder - this will give you a feeling for the type of process I have evolved over time. Pairing this type of approach with deliberately small slice PR's has proven to be a good way to control the output and avoid hallucinations etc. 
 
+Current tracked size is:
+-
+- 169,834 total lines across the whole repo however that total includes docs, user stories, review logs, and a very large archived bundle file, so it overstates the actual application code size.
+- 48,249 is the more honest number.
+
+  Useful breakdown:
+  - 32,072 lines under src/
+  - 12,885 lines under supabase/
+  - 48,249 lines across the main app/runtime set: src/ + supabase/ + scripts/ + tools/ + core config files
+
 Process Docs
 -
 - my current start of session prompt
