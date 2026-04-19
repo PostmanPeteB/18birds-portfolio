@@ -107,7 +107,7 @@ I have deliberately evolved the development process so that it is not just fast,
 ![App setup your round](images/setup-your-round.png)
 
 ### Golf Scoring App - live scoring
-![Scoring app on-course view](images/golf-app-live-scoring.png)
+![Live scoring](images/live-score-tracking.png)
 
 ### Active 18Birds Repo
 ![Active 18Birds Repo](images/active-18birds-repo.png)
