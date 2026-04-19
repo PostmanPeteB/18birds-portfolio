@@ -54,7 +54,7 @@ I have deliberately evolved the development process so that it is not just fast,
 ## Screenshots
 
 ### Active 18Birds Repo
-![Active 18Birds Repo](images/Active-18Birds-Repo.png)
+![Active 18Birds Repo](images/active-18birds-repo.png)
 
 ### Admin Login
 ![Admin login page](images/admin-login-page.png)
