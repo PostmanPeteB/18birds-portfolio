@@ -98,7 +98,7 @@ I have deliberately evolved the development process so that it is not just fast,
 
 ## Screenshots
 ### Golf Scoring App - create account screen
-![Scoring app login screen](images/golf-app-create-account.png)
+![App Create Account](images/app-create-account.png)
 
 ### Golf Scoring App - login screen
 ![Scoring app login screen](images/golf-app-login.png)
