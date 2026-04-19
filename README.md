@@ -97,6 +97,17 @@ I have deliberately evolved the development process so that it is not just fast,
 - `samples/` — selected representative code samples
 
 ## Screenshots
+### Golf Scoring App - create account screen
+![Scoring app login screen](images/golf-app-create-account.png)
+
+### Golf Scoring App - login screen
+![Scoring app login screen](images/golf-app-login.png)
+
+### Golf Scoring App - pre-round setup
+![Scoring app setup view](images/golf-app-setup-round-info.png)
+
+### Golf Scoring App - live scoring
+![Scoring app on-course view](images/golf-app-live-scoring.png)
 
 ### Active 18Birds Repo
 ![Active 18Birds Repo](images/active-18birds-repo.png)
@@ -109,18 +120,6 @@ I have deliberately evolved the development process so that it is not just fast,
 
 ### Active Rounds
 ![Active rounds overview](images/active-rounds-overview.png)
-
-### Golf Scoring App - create account screen
-![Scoring app login screen](images/golf-app-create-account.png)
-
-### Golf Scoring App - login screen
-![Scoring app login screen](images/golf-app-login.png)
-
-### Golf Scoring App - pre-round setup
-![Scoring app setup view](images/golf-app-setup-round-info.png)
-
-### Golf Scoring App - live scoring
-![Scoring app on-course view](images/golf-app-live-scoring.png)
 
 ## Notes
 This repository is intentionally sanitized. It does not include private credentials, customer data, production secrets, or the complete private production codebase.
