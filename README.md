@@ -69,7 +69,7 @@ I have deliberately evolved the development process so that it is not just fast,
 ![Scoring app login screen](images/golf-app-login.png)
 
 ### Golf Scoring App - pre-round setup
-![Scoring app setup view](images/app-scoring-page-1.png)
+![Scoring app setup view](images/golf-app-setup-round-info.png)
 
 ### Golf Scoring App - live scoring
 ![Scoring app on-course view](images/app-scoring-page-2.png)
