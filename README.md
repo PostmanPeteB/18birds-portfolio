@@ -9,11 +9,11 @@ The Golf Scoring Application currently supports:
 - Cloudflare Turnstile checks on all login/auth forms
 - Round type, handicap and tee box decision making
 - Playing partner supported
-- live score recording and total score calculation
-- amount of time round is taking
-- map of each hole
-- uploading of round
-- ability to view historical rounds
+- Live score recording and total score calculation
+- Amount of time round is taking
+- Map of each hole
+- Uploading of round
+- Ability to view historical rounds
 
 Live rounds are then also able to be tracked by the club administrator from the admin dashboard that each club/tenant is provided with.
 
