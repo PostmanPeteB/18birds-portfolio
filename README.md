@@ -44,7 +44,7 @@ Current tracked size is:
 Process Docs
 -
 - my current start of session prompt
-- AGENTS.md
+- AGENTS.md is the orchestrator but there are a number of others dealing with workflow, security, architecture, patterns etc
 - OUR-PROCESS.md
 - PLATFORM-VISION.md
 - patterns.md
@@ -58,7 +58,6 @@ This is a public portfolio repository prepared for technical review. It provides
 The working repo at https://github.com/18birds/18Birds is private and I am happy to walk you through the repo one on one if you would like. I have attached a screenshot of the home page and it shows:
 - Releases 3
 - Deployments 500+
-- Most of the .md files I use in the workflow - AGENTS.md is the orchestrator but there are a number of others dealing with workflow, security, architecture, patterns etc
 
 ## My role
 Founder, Product Lead, Engineering Lead
