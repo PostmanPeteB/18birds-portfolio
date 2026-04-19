@@ -2,6 +2,9 @@
 
 18Birds is a multi-tenant golf scoring and administration platform designed to support clubs, competitions, operational workflows, and scalable SaaS delivery.
 
+It provides an application for live scoring, which includes:
+- full create account workflow
+
 It has been built using a local AI-assisted development setup using OpenAI Codex CLI in Ubuntu (WSL) within VS Code, supporting React/TypeScript, Supabase, GitHub, and Vercel-based SaaS delivery. 
 
 I have included my current start of session prompt in the docs folder - this will give you a feeling for the type of process I have evolved over time. Pairing this type of approach with deliberately small slice PR's has proven to be a good way to control the output and avoid hallucinations etc. 
@@ -64,6 +67,9 @@ I have deliberately evolved the development process so that it is not just fast,
 
 ### Active Rounds
 ![Active rounds overview](images/active-rounds-overview.png)
+
+### Golf Scoring App - create account screen
+![Scoring app login screen](images/golf-app-create-account.png)
 
 ### Golf Scoring App - login screen
 ![Scoring app login screen](images/golf-app-login.png)
