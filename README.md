@@ -65,6 +65,9 @@ I have deliberately evolved the development process so that it is not just fast,
 ### Active Rounds
 ![Active rounds overview](images/active-rounds-overview.png)
 
+### Golf Scoring App - login screen
+![Scoring app login screen](images/golf-app-login.png)
+
 ### Golf Scoring App - pre-round setup
 ![Scoring app setup view](images/app-scoring-page-1.png)
 
