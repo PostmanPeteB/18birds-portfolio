@@ -2,12 +2,39 @@
 
 18Birds is a multi-tenant golf scoring and administration platform designed to support clubs, competitions, operational workflows, and scalable SaaS delivery.
 
-It provides an application for live scoring, which includes:
-- full create account workflow
+The Golf Scoring Application currently supports:
+- 
+- Full create account workflow
+- Google Places / Address Validation style address autocomplete integration for tenant/admin address entry
+- Cloudflare Turnstile checks on all login/auth forms
+- Round type, handicap and tee box decision making
+- Playing partner supported
+- live score recording and total score calculation
+- amount of time round is taking
+- map of each hole
+- uploading of round
+- ability to view historical rounds
+
+Live rounds are then also able to be tracked by the club administrator from the admin dashboard that each club/tenant is provided with.
+
+The Administrator Dashboard currently supports:
+- 
+- Platform Superuser and multi-tenant admin dashboards
+- Tenant onboarding workflow
+- Initial tenant admin setup
+- Initial course setup - multiple courses per tenant supported
+- Initial membership upload
+- Audit log
+- Active rounds including pace of play configuration
 
 It has been built using a local AI-assisted development setup using OpenAI Codex CLI in Ubuntu (WSL) within VS Code, supporting React/TypeScript, Supabase, GitHub, and Vercel-based SaaS delivery. 
 
-I have included my current start of session prompt in the docs folder - this will give you a feeling for the type of process I have evolved over time. Pairing this type of approach with deliberately small slice PR's has proven to be a good way to control the output and avoid hallucinations etc. 
+I have included a number of my process files in the docs folder - this will give you a feeling for the type of process I have evolved over time. Pairing this type of approach with deliberately small slice PR's has proven to be a good way to control the output and avoid hallucinations etc. 
+
+Process Docs
+-
+- my current start of session prompt
+- AGENTS.md
 
 ## Purpose of this repository
 This is a public portfolio repository prepared for technical review. It provides a high-level view of the product, architecture, engineering decisions, user experience, and selected implementation samples without exposing private production details.
