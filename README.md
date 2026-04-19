@@ -72,7 +72,7 @@ I have deliberately evolved the development process so that it is not just fast,
 ![Scoring app setup view](images/golf-app-setup-round-info.png)
 
 ### Golf Scoring App - live scoring
-![Scoring app on-course view](images/app-scoring-page-2.png)
+![Scoring app on-course view](images/golf-app-live-scoring.png)
 
 ## Notes
 This repository is intentionally sanitized. It does not include private credentials, customer data, production secrets, or the complete private production codebase.
