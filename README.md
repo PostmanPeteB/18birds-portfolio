@@ -1,3 +1,6 @@
+## Note
+This repository is intentionally sanitized. It does not include private credentials, customer data, production secrets, or the complete private production codebase.
+
 # 18Birds
 
 18Birds is a multi-tenant golf scoring and administration platform designed to support clubs, competitions, operational workflows, and scalable SaaS delivery.
@@ -120,6 +123,3 @@ I have deliberately evolved the development process so that it is not just fast,
 
 ### Active Rounds
 ![Active rounds overview](images/active-rounds-overview.png)
-
-## Notes
-This repository is intentionally sanitized. It does not include private credentials, customer data, production secrets, or the complete private production codebase.
