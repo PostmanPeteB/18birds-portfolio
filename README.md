@@ -35,6 +35,12 @@ Process Docs
 -
 - my current start of session prompt
 - AGENTS.md
+- OUR-PROCESS.md
+- PLATFORM-VISION.md
+- patterns.md
+- SECURITY-GUARDRAILS.md
+- FORM-STANDARDS.md
+- and there are quite a few more but that give you the general idea
 
 ## Purpose of this repository
 This is a public portfolio repository prepared for technical review. It provides a high-level view of the product, architecture, engineering decisions, user experience, and selected implementation samples without exposing private production details.
