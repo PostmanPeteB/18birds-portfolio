@@ -101,16 +101,16 @@ I have deliberately evolved the development process so that it is not just fast,
 
 ## Screenshots
 ### Golf Scoring App - create account screen
-![App Create Account](images/app-create-account.png)
+![App Create Account](images/app-create-account-small.png)
 
 ### Golf Scoring App - login screen
-![App Login](images/login.png)
+![App Login](images/login-small.png)
 
 ### Golf Scoring App - pre-round setup
-![App setup your round](images/setup-your-round.png)
+![App setup your round](images/setup-your-round-small.png)
 
 ### Golf Scoring App - live scoring
-![Live scoring](images/live-score-tracking-2.png)
+![Live scoring](images/live-score-tracking-small.png)
 
 ### Active 18Birds Repo
 ![Active 18Birds Repo](images/active-18birds-repo.png)
