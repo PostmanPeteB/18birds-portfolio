@@ -1,9 +1,9 @@
 ## Note
 This repository is intentionally sanitized. It does not include private credentials, customer data, production secrets, or the complete private production codebase.
 
-# 18Birds
+# klubeez
 
-18Birds is a multi-tenant golf scoring and administration platform designed to support clubs, competitions, operational workflows, and scalable SaaS delivery.
+klubeez is a multi-tenant golf scoring and administration platform designed to support clubs, competitions, operational workflows, and scalable SaaS delivery.
 
 The Golf Scoring Application currently supports:
 - 
