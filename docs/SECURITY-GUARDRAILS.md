@@ -1,6 +1,6 @@
 # Security Guardrails
 
-This document defines mandatory secure coding and delivery guardrails for 18Birds.
+This document defines mandatory secure coding and delivery guardrails for klubeez.
 
 These rules apply to web and future mobile-facing product work unless an explicit decision record says otherwise.
 
@@ -62,7 +62,7 @@ These rules apply to web and future mobile-facing product work unless an explici
   - Cloudflare for edge bot/WAF/rate-limit events
   - Supabase Auth for auth endpoint abuse, CAPTCHA, and provider throttle outcomes
   - Vercel for deployment/runtime platform events
-- Prefer 18Birds-owned server telemetry for 18Birds-owned actions:
+- Prefer klubeez-owned server telemetry for klubeez-owned actions:
   - platform/admin actions
   - role and membership changes
   - tenant onboarding milestones
